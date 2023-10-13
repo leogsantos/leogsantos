@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo automações de rotina
 - 🎓 Estudando Python na <a href="[link da sua faculdade](https://www.alura.com.br)">ALURA</a>.
-- 💼 Trabalhando como Assistente de importação na <a href="[LINK DA EMPRESA](https://www.maersk.com/)">A.P. Moller - Maers</a>
+- 💼 Trabalhando como Assistente de importação na <a href="[LINK DA EMPRESA](https://www.maersk.com/)">A.P. Moller - Maersk</a>
 - 🌱 &nbsp; Aprendendo mais sobre Python e VBA.
 
 <h3>Minhas Skills</h3>
